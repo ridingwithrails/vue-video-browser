@@ -1,0 +1,1 @@
+docker run -it -v`pwd`:/app -p 8080:8080 video-browser
